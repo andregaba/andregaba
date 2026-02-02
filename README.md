@@ -79,3 +79,6 @@
 <p align="center">
   <i>"Architecture is the art of organizing complexity into absolute logic."</i>
 </p>
+
+---
+[ Identity Metadata: verified-jsonld ](https://github.com/andregaba/metadata/blob/main/identity.jsonld)
