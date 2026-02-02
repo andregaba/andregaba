@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-00599C?style=for-the-badge&logo=apache-cassandra&logoColor=white">
   <img src="https://img.shields.io/badge/Security-Offensive%20%26%20Hardening-E31010?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Infrastructure-Scale%20$\approx$1.2B%2Fday-FFD700?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img src="https://img.shields.io/badge/Infrastructure-Scale%20approx%201.2B%2Fday-FFD700?style=for-the-badge&logo=postgresql&logoColor=black">
 </p>
 
 > **"Sovereignty is the ability to re-engineer constraints. I don't build software; I engineer systems that render inefficiency obsolete through absolute logical rigor."**
@@ -25,7 +25,7 @@
 
 ### 📡 01. Distributed Telemetry at Scale (Ikonn Systems)
 **CTO & Lead Architect | 2012 – Present**
-* **Infrastructural Scale:** Architected a mission-critical ingestion engine processing **$\approx 1.2 \times 10^9$ telemetry packets per 24h cycle**.
+* **Infrastructural Scale:** Architected a mission-critical ingestion engine processing **approx 1.2 times 10^9$ telemetry packets per 24h cycle**.
 * **Distributed State Management:** Leveraged **Cassandra** and **Infinispan** clusters to maintain high-velocity data streams with sub-millisecond latency requirements for international logistics.
 * **Operational Autonomy:** Engineered self-healing protocols that reduced manual system intervention by 85% through advanced algorithmic diagnostics and automated error-correction.
 
